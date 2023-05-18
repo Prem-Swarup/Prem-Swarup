@@ -4,7 +4,7 @@
 - I also have keen interest in AI/AGI/ML/DL/Applied Mathematics.
 - Contact me @premswarup565@gmail.com
 - [LinkedIn Profile](http://www.linkedin.com/in/prem-swarup-12566b203) 
-- Expert @Codeforces [prem__](https://codeforces.com/profile/prem__)
+- Expert @Codeforces ([prem__](https://codeforces.com/profile/prem__))
 
 <!---
 Prem-Swarup/Prem-Swarup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
