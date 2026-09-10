@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Prem-Swarup
-- I’m currently a 4th year UG student taking Mathematics and Computing (B.Tech) programme at Indian Institute of Technology (IIT), Goa
+- I’m currently working as Sr. AI & Compiler Engineer @Vicharak-in.
+- I had graduated with B.Tech degree from Indian Institute of Technology (IIT), Goa in 2024.
 - I'm a competitive programmer, critical thinker and an aspiring software developer.
 - I also have keen interest in AI/AGI/ML/DL/Applied Mathematics.
 - Contact me @premswarup565@gmail.com
